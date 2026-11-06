@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 940">
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1d9df"/><stop offset="1" stop-color="#d9b2c8"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#fff" stop-opacity=".65"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="940" fill="url(#g)"/>
+<circle cx="645" cy="160" r="240" fill="url(#glow)"/>
+<circle cx="100" cy="780" r="250" fill="#fff" opacity=".13"/>
+<path d="M0 650 Q170 560 330 690 T800 620 V940 H0Z" fill="#fff" opacity=".20"/>
+<g fill="none" stroke="#774d6b" stroke-width="4" opacity=".45">
+ <path d="M135 320 C220 250 250 160 205 95 M205 175 C130 155 115 110 130 70 M211 210 C278 190 312 146 306 108"/>
+ <path d="M675 500 C610 420 600 330 645 270 M640 350 C700 335 730 292 720 252"/>
+</g>
+<g fill="#fff" opacity=".6"><circle cx="135" cy="95" r="8"/><circle cx="306" cy="108" r="7"/><circle cx="645" cy="270" r="8"/><circle cx="720" cy="252" r="6"/><path d="m560 115 7 18 18 7-18 7-7 18-7-18-18-7 18-7Z"/><path d="m235 540 5 13 13 5-13 5-5 13-5-13-13-5 13-5Z"/></g>
+<g transform="translate(400 440)" opacity=".42" fill="#fff" stroke="#fff">
+ <path d="M0-72 C25-35 60-10 38 15 C20 35-20 35-38 15 C-60-10-25-35 0-72Z" stroke-width="2"/>
+ <path d="M-72 0 C-35-25-10-60 15-38 C35-20 35 20 15 38 C-10 60-35 25-72 0Z" stroke-width="2"/>
+ <path d="M72 0 C35 25 10 60-15 38 C-35 20-35-20-15-38 C10-60 35-25 72 0Z" stroke-width="2"/>
+ <path d="M0 72 C-25 35-60 10-38-15 C-20-35 20-35 38-15 C60 10 25 35 0 72Z" stroke-width="2"/>
+ <circle r="18" fill="#774d6b" stroke="none"/>
+</g>
+<rect x="42" y="42" width="716" height="856" rx="18" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="2"/>
+<text x="400" y="760" text-anchor="middle" font-family="Georgia,serif" font-size="43" fill="#774d6b" opacity=".8">Your photo goes here</text>
+<text x="400" y="812" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="8" fill="#774d6b" opacity=".65">PHOTO 06</text>
+</svg>
