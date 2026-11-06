@@ -22,6 +22,15 @@ window.BIRTHDAY_CONFIG = {
     { image: "resources/images/photo-03.svg", caption: "A moment of magic" },
     { image: "resources/images/photo-04.svg", caption: "The happy little things" },
     { image: "resources/images/photo-05.svg", caption: "Forever worth keeping" },
+    { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" },
+    { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" },
+    { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" },
+    { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" },
+    { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" },
+    { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" },
+    { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" },
+    { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" },
+    { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" },
     { image: "resources/images/photo-06.svg", caption: "A favourite kind of day" }
   ]
 };
